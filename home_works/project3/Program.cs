@@ -6,13 +6,13 @@
 
 Console.WriteLine("Enter a number to check for parity: ");
 int parity = Convert.ToInt32(Console.ReadLine());
-if(parity % 2 == 0) 
+if (parity % 2 == 0) 
 {
     Console.WriteLine("The entered number is even");
 }
 else 
 {
-        Console.WriteLine("The entered number is not even");
+    Console.WriteLine("The entered number is not even");
 }
 
 

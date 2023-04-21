@@ -5,8 +5,8 @@
 // 7 -> нет
 
 Console.WriteLine("Enter a number to check for parity: ");
-int parity = Convert.ToInt32(Console.ReadLine());
-if (parity % 2 == 0) 
+int number = Convert.ToInt32(Console.ReadLine());
+if (number % 2 == 0) 
 {
     Console.WriteLine("The entered number is even");
 }

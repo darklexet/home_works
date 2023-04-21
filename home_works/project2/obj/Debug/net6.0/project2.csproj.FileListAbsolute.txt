@@ -1,0 +1,15 @@
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project2\bin\Debug\net6.0\project2.exe
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project2\bin\Debug\net6.0\project2.deps.json
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project2\bin\Debug\net6.0\project2.runtimeconfig.json
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project2\bin\Debug\net6.0\project2.dll
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project2\bin\Debug\net6.0\project2.pdb
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project2\obj\Debug\net6.0\project2.csproj.AssemblyReference.cache
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project2\obj\Debug\net6.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project2\obj\Debug\net6.0\project2.AssemblyInfoInputs.cache
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project2\obj\Debug\net6.0\project2.AssemblyInfo.cs
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project2\obj\Debug\net6.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project2\obj\Debug\net6.0\project2.dll
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project2\obj\Debug\net6.0\refint\project2.dll
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project2\obj\Debug\net6.0\project2.pdb
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project2\obj\Debug\net6.0\project2.genruntimeconfig.cache
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project2\obj\Debug\net6.0\ref\project2.dll

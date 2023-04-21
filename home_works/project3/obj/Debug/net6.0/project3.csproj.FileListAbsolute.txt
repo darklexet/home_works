@@ -1,0 +1,15 @@
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project3\bin\Debug\net6.0\project3.exe
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project3\bin\Debug\net6.0\project3.deps.json
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project3\bin\Debug\net6.0\project3.runtimeconfig.json
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project3\bin\Debug\net6.0\project3.dll
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project3\bin\Debug\net6.0\project3.pdb
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project3\obj\Debug\net6.0\project3.csproj.AssemblyReference.cache
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project3\obj\Debug\net6.0\project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project3\obj\Debug\net6.0\project3.AssemblyInfoInputs.cache
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project3\obj\Debug\net6.0\project3.AssemblyInfo.cs
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project3\obj\Debug\net6.0\project3.csproj.CoreCompileInputs.cache
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project3\obj\Debug\net6.0\project3.dll
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project3\obj\Debug\net6.0\refint\project3.dll
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project3\obj\Debug\net6.0\project3.pdb
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project3\obj\Debug\net6.0\project3.genruntimeconfig.cache
+C:\Users\lexet\Desktop\семинар по c#\PROJECTS_C#\home_works\project3\obj\Debug\net6.0\ref\project3.dll
